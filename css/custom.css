@@ -1,0 +1,37 @@
+body {
+    background-color: #ffffff;
+}
+
+#content {
+    border-top: 5px solid #737373;
+}
+
+#menu {
+    background-color: #060606;
+    background-image: -webkit-radial-gradient(circle, #ffffff, #a2a2a2);
+    background-image: radial-gradient(circle, #ffffff, #a2a2a2);
+    background-repeat: no-repeat;
+    border-top: 5px solid #ef4e57;
+}
+
+#menu-content h1 a,
+#menu-content small,
+a,
+#links a {
+    color: #ef4e57;
+}
+
+#links a:hover, 
+#links a:focus, 
+#social a:hover, 
+#social a:focus, 
+#menu-content h1 a:hover, 
+#menu-content h1 a:focus {
+    color: #333333;
+}
+
+#profile-pic {
+    width: 70%;
+    border: 5px solid #ffffff;
+    box-shadow: 0 0 10px #b3b3b3;
+}
