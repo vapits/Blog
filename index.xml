@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vassilis Pitsounis</title>
-    <link>http://vapits.github.io/Blog/</link>
+    <link>https://vapits.github.io/Blog/</link>
     <description>Recent content on Vassilis Pitsounis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/vapits&#34;&gt;Vassilis Pitsounis&lt;/a&gt; 2016</copyright>
     <lastBuildDate>Tue, 27 Sep 2016 10:06:15 +0200</lastBuildDate>
-    <atom:link href="http://vapits.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vapits.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome to my blog</title>
-      <link>http://vapits.github.io/Blog/post/welcome-to-my-blog/</link>
+      <link>https://vapits.github.io/Blog/post/welcome-to-my-blog/</link>
       <pubDate>Tue, 27 Sep 2016 10:06:15 +0200</pubDate>
       
-      <guid>http://vapits.github.io/Blog/post/welcome-to-my-blog/</guid>
+      <guid>https://vapits.github.io/Blog/post/welcome-to-my-blog/</guid>
       <description>&lt;p&gt;I started this Blog to share my daily experiences in the world of web and applications development. &lt;br&gt;
 As a Frontend Developer I&amp;rsquo;m encountering daily lots of challenges and therefore I hope those challenges and there solutions to be helpful for you also!&lt;/p&gt;
 </description>
